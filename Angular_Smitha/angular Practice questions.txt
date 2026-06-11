@@ -1,0 +1,46 @@
+"Responsive UI Dev (Angular)
+	what , why and architecture and imp building blocks
+---------------------------------------------------------------
+steps to create a service without cli in angular - 15 mins
+
+steps to create a routers without cli in angular - 15 mins
+
+steps to create a component without cli in angular - 15 mins
+
+steps to create a custom pipes in angular - 15 mins
+
+steps to create a custom directives in angular - 15 mins
+
+steps to create a nested component in angular - 15 mins
+
+steps to handle exception in angular at service class and show it in error page- 15 mins
+------------------------------------
+
+simple two way binding example- 15 mins
+---------------------------
+Javascript - javatpoint/interviewbit
+Typescript - javatpoint/interviewbit
+Transitions and Animations (Material UI) - steps 
+Redux" - what why & architecture - 
+
+
+
+
+--------------
+Magic number is the if the sum of its digits recursively are calculated till a single digit If the single digit is 1 then the number is a magic number. Magic number is very similar with Happy Number.
+Example- 226 is said to be a magic number
+
+2+2+6=10 sum of digits is 10 then again 1+0=1 now we get a single digit number is 1.if we single digit number will now 1 them it would not a magic number.
+
+directives - various types with example - handson - 30 mins
+
+show the difference between decorator and annotation in angular- 10 mins
+
+show how to add bootstrap in angular project- 5 mins
+
+show how does EventEmitter works- 15 mins
+
+simple registration form with validation (must include all inputs types)- 1 hour
+
+
+
